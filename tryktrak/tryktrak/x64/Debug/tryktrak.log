@@ -1,0 +1,6 @@
+﻿  conio2.cpp
+  main.cpp
+C:\Users\user\Desktop\studia\sem1\tryktrak\tryktrak\tryktrak\conio2.cpp(398,45): warning C4267: "argument": konwersja z "size_t" do "DWORD", możliwa utrata danych
+C:\Users\user\Desktop\studia\sem1\tryktrak\tryktrak\tryktrak\main.cpp(359,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Generowanie kodu...
+  tryktrak.vcxproj -> C:\Users\user\Desktop\studia\sem1\tryktrak\tryktrak\x64\Debug\tryktrak.exe
